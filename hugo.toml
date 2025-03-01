@@ -1,4 +1,4 @@
-baseURL = 'https://metnerium.ru/blog/'
+baseURL = 'https://metnerium.ru/'
 languageCode = 'ru'
 title = 'Metnerium'
 theme = 'hugo-PaperMod'
