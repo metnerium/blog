@@ -1,0 +1,4 @@
+baseURL = 'https://metnerium.ru/blog'
+languageCode = 'ru'
+title = 'Metnerium'
+theme = 'hugo-PaperMod'
